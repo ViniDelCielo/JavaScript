@@ -12,4 +12,4 @@ let numero2 = Number(prompt("Digite o segundo número inteiro:"));
 
 let soma = numero1 + numero2;
 
-alert("Óla  a soma dos dois números é: " + soma);   
+alert("A     soma dos dois números é: " + soma);   
